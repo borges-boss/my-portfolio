@@ -1,10 +1,10 @@
 
 # Gabriel Borges
 
-## About Me
+## 🙍‍♂️ About Me
 Experienced Software Developer adept in bringing forth expertise in design, installation, testing, and maintenance of software systems. Proficient in various platforms, languages, and embedded systems. Experienced with the latest cutting-edge development tools and procedures. Able to effectively self-manage during independent projects, as well as collaborate as part of a productive team.
 
-## Employment History
+## 💼 Employment History
 
 **Full Stack Developer** - Oktz Ti Consultoria e Serviços LTDA, Belo Horizonte  
 *September 2021 - April 2023*
@@ -25,7 +25,7 @@ Key Responsibilities and Contributions:
 - Problem Solving and Troubleshooting: Engaged in identifying and resolving technical issues that arose during the development phase. Demonstrated a proactive approach to problem-solving to maintain the smooth functioning of the applications.
 - Quality Assurance and Testing: Assisted in conducting thorough testing and quality assurance procedures to validate the functionality and reliability of the web applications, ensuring they met the highest standards.
 
-## Education
+## 🎓 Education
 
 - **Bachelor's in Information Systems** - Una Belo Horizonte  
   *January 2019 - August 2026*
@@ -33,7 +33,7 @@ Key Responsibilities and Contributions:
 - **Technical course in Software Development** - Escola Técnica Vital Brasil  
   *January 2016 - December 2018*
 
-## Main Skills
+## ⌨ Main Skills
 
 - Android SDK
 - React JS
@@ -51,14 +51,31 @@ Key Responsibilities and Contributions:
 
 - **URL**: https://play.google.com/store/apps/details?id=com.ikkeware.rambooster
 
+![](https://raw.githubusercontent.com/borges-boss/my-portfolio/main/image1.PNG)
+
+
 ### Satanic Text
-- **Description**: Reverse text is used to reverse words, spell, letters and sentences.
+- **Description**: Satanic Text is used to generate alternative fonts.
 
 - **URL**: https://play.google.com/store/apps/details?id=com.softsys.thesaurus
+
+![enter image description here](https://raw.githubusercontent.com/borges-boss/my-portfolio/main/image2.PNG)
+
 
 ### Reverse Text
 - **Description**: Reverse text is used to reverse words, spell, letters and sentences.
 
 - **URL**: https://play.google.com/store/apps/details?id=com.ikke.mirrortext
 
-## Contact
+![enter image description here](https://raw.githubusercontent.com/borges-boss/my-portfolio/main/image3.PNG)
+
+### Vanilla Muskets
+- **Description**: A simple minecraft mod that adds muskets to the game
+
+- **URL**: https://github.com/borges-boss/vanilla-muskets
+- **URL2**: https://legacy.curseforge.com/minecraft/mc-mods/vanilla-muskets
+
+![enter image description here](https://raw.githubusercontent.com/borges-boss/my-portfolio/main/image4.PNG)
+
+## 📫 Contact
+[borges.diorato@gmail.com](mailto:borges.diorato@gmail.com)
