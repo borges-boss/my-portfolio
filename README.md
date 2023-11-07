@@ -5,6 +5,7 @@
 - [🎓 Education](https://github.com/borges-boss/my-portfolio#-education)
 - [🧠 Main Skills](https://github.com/borges-boss/my-portfolio#-main-skills)
 - [🤖 Projects](https://github.com/borges-boss/my-portfolio#-projects)
+- [📫 Contact](https://github.com/borges-boss/my-portfolio#-contact)
 
 ## 🙍‍♂️ About Me
 Experienced Software Developer adept in bringing forth expertise in design, installation, testing, and maintenance of software systems. Proficient in various platforms, languages, and embedded systems. Experienced with the latest cutting-edge development tools and procedures. Able to effectively self-manage during independent projects, as well as collaborate as part of a productive team.
