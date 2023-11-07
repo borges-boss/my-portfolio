@@ -1,5 +1,10 @@
 
 # Gabriel Borges
+##  Summary
+[💼 Employment History](https://github.com/borges-boss/my-portfolio#-employment-history)
+[🎓 Education](https://github.com/borges-boss/my-portfolio#-education)
+[🧠 Main Skills](https://github.com/borges-boss/my-portfolio#-main-skills)
+[🤖 Projects](https://github.com/borges-boss/my-portfolio#-projects)
 
 ## 🙍‍♂️ About Me
 Experienced Software Developer adept in bringing forth expertise in design, installation, testing, and maintenance of software systems. Proficient in various platforms, languages, and embedded systems. Experienced with the latest cutting-edge development tools and procedures. Able to effectively self-manage during independent projects, as well as collaborate as part of a productive team.
@@ -33,7 +38,7 @@ Key Responsibilities and Contributions:
 - **Technical course in Software Development** - Escola Técnica Vital Brasil  
   *January 2016 - December 2018*
 
-## ⌨ Main Skills
+## 🧠 Main Skills
 
 - Android SDK
 - React JS
@@ -44,7 +49,7 @@ Key Responsibilities and Contributions:
 - Google Cloud Platform
 
 
-## 🤖 Projects
+## Projects
 
 ### Speed Up
 - **Description**: Speed Up can optimize your gaming/app experience, by finishing unnecessary processes in the background. With Speed Up, you can also apply specific settings when launching a specific game on the apps' list. For more info check the link below.
@@ -52,7 +57,6 @@ Key Responsibilities and Contributions:
 - **URL**: https://play.google.com/store/apps/details?id=com.ikkeware.rambooster
 
 ![](https://raw.githubusercontent.com/borges-boss/my-portfolio/main/image1.PNG)
-
 
 
 ### Satanic Text
@@ -63,14 +67,12 @@ Key Responsibilities and Contributions:
 ![enter image description here](https://raw.githubusercontent.com/borges-boss/my-portfolio/main/image2.PNG)
 
 
-
 ### Reverse Text
 - **Description**: Reverse text is used to reverse words, spell, letters and sentences.
 
 - **URL**: https://play.google.com/store/apps/details?id=com.ikke.mirrortext
 
 ![enter image description here](https://raw.githubusercontent.com/borges-boss/my-portfolio/main/image3.PNG)
-
 
 ### Vanilla Muskets
 - **Description**: A simple minecraft mod that adds muskets to the game
@@ -79,7 +81,6 @@ Key Responsibilities and Contributions:
 - **URL2**: https://legacy.curseforge.com/minecraft/mc-mods/vanilla-muskets
 
 ![enter image description here](https://raw.githubusercontent.com/borges-boss/my-portfolio/main/image4.PNG)
-
 
 ## 📫 Contact
 [borges.diorato@gmail.com](mailto:borges.diorato@gmail.com)
