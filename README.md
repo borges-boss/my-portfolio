@@ -4,7 +4,7 @@
 - [💼 Employment History](https://github.com/borges-boss/my-portfolio#-employment-history)
 - [🎓 Education](https://github.com/borges-boss/my-portfolio#-education)
 - [🧠 Main Skills](https://github.com/borges-boss/my-portfolio#-main-skills)
-- [🤖 Projects](https://github.com/borges-boss/my-portfolio#-projects)
+- [🤖 Projects](https://github.com/borges-boss/my-portfolio#projects)
 - [📫 Contact](https://github.com/borges-boss/my-portfolio#-contact)
 
 ## 🙍‍♂️ About Me
