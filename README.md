@@ -54,12 +54,14 @@ Key Responsibilities and Contributions:
 ![](https://raw.githubusercontent.com/borges-boss/my-portfolio/main/image1.PNG)
 
 
+
 ### Satanic Text
 - **Description**: Satanic Text is used to generate alternative fonts.
 
 - **URL**: https://play.google.com/store/apps/details?id=com.softsys.thesaurus
 
 ![enter image description here](https://raw.githubusercontent.com/borges-boss/my-portfolio/main/image2.PNG)
+
 
 
 ### Reverse Text
@@ -69,6 +71,7 @@ Key Responsibilities and Contributions:
 
 ![enter image description here](https://raw.githubusercontent.com/borges-boss/my-portfolio/main/image3.PNG)
 
+
 ### Vanilla Muskets
 - **Description**: A simple minecraft mod that adds muskets to the game
 
@@ -76,6 +79,7 @@ Key Responsibilities and Contributions:
 - **URL2**: https://legacy.curseforge.com/minecraft/mc-mods/vanilla-muskets
 
 ![enter image description here](https://raw.githubusercontent.com/borges-boss/my-portfolio/main/image4.PNG)
+
 
 ## 📫 Contact
 [borges.diorato@gmail.com](mailto:borges.diorato@gmail.com)
