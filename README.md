@@ -44,7 +44,7 @@ Key Responsibilities and Contributions:
 - Google Cloud Platform
 
 
-## Projects
+## 🤖 Projects
 
 ### Speed Up
 - **Description**: Speed Up can optimize your gaming/app experience, by finishing unnecessary processes in the background. With Speed Up, you can also apply specific settings when launching a specific game on the apps' list. For more info check the link below.
