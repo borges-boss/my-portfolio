@@ -65,7 +65,7 @@ Key Responsibilities and Contributions:
 
 - **URL**: https://play.google.com/store/apps/details?id=com.softsys.thesaurus
 
-![enter image description here](https://raw.githubusercontent.com/borges-boss/my-portfolio/main/image2.PNG)
+![](https://raw.githubusercontent.com/borges-boss/my-portfolio/main/image2.PNG)
 
 
 ### Reverse Text
@@ -73,7 +73,15 @@ Key Responsibilities and Contributions:
 
 - **URL**: https://play.google.com/store/apps/details?id=com.ikke.mirrortext
 
-![enter image description here](https://raw.githubusercontent.com/borges-boss/my-portfolio/main/image3.PNG)
+![](https://raw.githubusercontent.com/borges-boss/my-portfolio/main/image3.PNG)
+
+
+### Snap Social
+- **Description**: Snap Social is a cutting-edge app designed to elevate your social media experience by giving you the power to download and save your favorite videos and pictures from Instagram and TikTok effortlessly. With its user-friendly interface and powerful features, Snap Social opens up a world of possibilities for content enthusiasts, creators, and casual users alike. 
+
+- **URL**: https://play.google.com/store/apps/details?id=com.softsys.socialsnap
+
+![](https://raw.githubusercontent.com/borges-boss/my-portfolio/main/imageSnap.PNG)
 
 ### Vanilla Muskets
 - **Description**: A simple minecraft mod that adds muskets to the game
@@ -81,7 +89,7 @@ Key Responsibilities and Contributions:
 - **URL**: https://github.com/borges-boss/vanilla-muskets
 - **URL2**: https://legacy.curseforge.com/minecraft/mc-mods/vanilla-muskets
 
-![enter image description here](https://raw.githubusercontent.com/borges-boss/my-portfolio/main/image4.PNG)
+![](https://raw.githubusercontent.com/borges-boss/my-portfolio/main/image4.PNG)
 
 ## 📫 Contact
 [borges.diorato@gmail.com](mailto:borges.diorato@gmail.com)
